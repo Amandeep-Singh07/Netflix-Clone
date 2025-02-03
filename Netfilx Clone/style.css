@@ -222,3 +222,10 @@ footer .Questions{
   color: white;
   font-size: 14px;
 }
+
+@media screen and (max-width:1300px) {
+   
+    .first{
+      flex-wrap: wrap;
+    }
+}
