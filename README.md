@@ -1,6 +1,10 @@
 Netflix Clone Project
+
+
 📽️ Project Overview
 This is a fully responsive Netflix clone website created using HTML and CSS, designed to replicate the modern and sleek interface of the popular streaming platform. The project showcases responsive web design techniques and demonstrates front-end development skills.
+
+
 🎬 Features
 
 Full responsive design that works seamlessly across all devices
