@@ -169,6 +169,10 @@ nav button {
   font-weight: 300;
  }
 
+ .aman{
+    margin: 0px 88px;
+ }
+
 .faq{
   color: white;
   padding: 34px;
@@ -203,8 +207,13 @@ footer{
   padding: 14px;
 }
 footer .Questions{
-  padding: 32px 18px;
+  padding: 32px 5px;
 }
+footer .Questions:hover{
+  color: red;
+  cursor: pointer;
+}
+
 
 .footer{
   display: grid;
@@ -221,6 +230,9 @@ footer .Questions{
   text-decoration: none;
   color: white;
   font-size: 14px;
+}
+.footer a:hover{
+  color: red;
 }
 
 @media screen and (max-width:1300px) {
